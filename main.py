@@ -7,7 +7,7 @@ from aiogram.types import Message, ReplyKeyboardMarkup, KeyboardButton
 from aiogram.filters import CommandStart, Command, CommandObject
 
 # Вставь сюда токен от @BotFather
-TOKEN = "8849138761:AAGCywW3sVYpJ3CMenJLfPqM90-Evp_Ft_w"
+TOKEN = "8849138761:AAF86Y4IbHUV2XU512EwrOFCnVmeMSkmkDI"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
